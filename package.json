@@ -1,0 +1,19 @@
+{
+  "name": "tfg0",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "Prueba para mostrar el uso de changelog-drafter sobre un repo en GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paleloser/TFG-GH0.git"
+  },
+  "author": "Pablo Caraballo Llorente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paleloser/TFG-GH0/issues"
+  },
+  "homepage": "https://github.com/Paleloser/TFG-GH0#readme"
+}
