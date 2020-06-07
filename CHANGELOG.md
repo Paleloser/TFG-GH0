@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-06-07
+
+### Fixed
+
+- Admin authentication hmac is corrupted
+
 ## [1.0.0] - 2020-06-07
 
 ### Added
@@ -19,5 +25,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - [#3](https://github.com/Paleloser/TFG-GH0/issues/3) Authentication controller validates any user
 
-[Unreleased]: https://github.com/Paleloser/TFG-GH0/compare/1.0.0...develop
+[Unreleased]: https://github.com/Paleloser/TFG-GH0/compare/1.0.1...develop
+[1.0.1]: https://github.com/Paleloser/TFG-GH0/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/Paleloser/TFG-GH0/commits/1.0.0
