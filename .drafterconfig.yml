@@ -3,3 +3,5 @@ repo-type: github
 commit-patterns:
   REGEX: '^(?<message>.+) \((?<issue>#\d+)\)$'
   REVERT: '^Revert \"(?<message>.+) \((?<issue>#\d+)\)\"$'
+auto:
+  REGEX: '^(?<type>\w+)\/(?<issue>([A-Z]+-\d+|\#\d+))?-?(?<message>.*)$'
