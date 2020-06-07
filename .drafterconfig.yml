@@ -1,0 +1,5 @@
+issue-tracking: github
+repo-type: github
+commit-patterns:
+  REGEX: '^(?<message>.+) \((?<issue>#\d+)\)$'
+  REVERT: '^Revert \"(?<message>.+) \((?<issue>#\d+)\)\"$'
